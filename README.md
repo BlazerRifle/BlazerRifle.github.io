@@ -1,1 +1,1 @@
-# publish
+# BlazerRifle.github.io
